@@ -9,23 +9,31 @@
 ---
 
 ### About me
-I'm an aspiring medical data analytics professional with a strong focus on **OMICS** and **clinical trials**. I have strong experience in medical laboratory analytics.  
-I work across **Python**, **R**, and **SQL**, and I'm experienced with **Spark** ecosystems, including **PySpark** and **SparkR**.
+I'm a medical data analytics professional with a strong focus on **OMICS** and **clinical trials**. I hold an **MSc in Medical Analytics** and a **postgraduate degree in OMICS Data Science**, and I bring hands-on experience working with high-throughput biological data in computational environments.
 
-Beyond data science, I bring **hands-on end-to-end laboratory experience** in medical and clinical settings — including blood analysis, sample processing, and the full workflow from specimen intake through to **validating and approving blood test results**. This bench-level expertise gives me a rare ability to bridge wet lab practice with data-driven analysis.
+I work across **Python**, **R**, and **SQL**, and I'm experienced with **Spark** ecosystems, including **PySpark** and **SparkR**. On the computational side, I'm comfortable working in **Linux/HPC environments** and have applied both **Deep Learning and Machine Learning** approaches in biomedical contexts.
+
+My OMICS work spans multiple data modalities - **genomics, transcriptomics, epigenomics, metagenomics, proteomics, and metabolomics** - and I'm well-versed in working with public repositories such as **NCBI, Ensembl, GEO, and SRA**. I also have experience with **molecular structure visualization using PyMol**.
+
+Beyond data science, I bring **hands-on end-to-end laboratory experience** in medical and clinical settings - including blood analysis, sample processing, and the full workflow from specimen intake through to **validating and approving blood test results**. This bench-level expertise gives me a rare ability to bridge wet lab practice with data-driven analysis.
 
 I enjoy solving data-intensive problems in bioinformatics and healthcare, with strengths in:
 
+- Multi-omics data analysis (genomic, transcriptomic, epigenomic, proteomic, metabolomic)
+- High-throughput data processing in HPC/Linux environments
+- Deep Learning applied to biomedical data
+- Integration of public databases (NCBI, Ensembl, GEO, SRA)
+- Molecular structure visualization (PyMol)
 - Data visualization and storytelling
 - Statistical analysis and inference
 - Experimental design and hypothesis testing
-- Simulations and sampling methods
 - Regression modeling (linear and logistic)
 - ANOVA / ANCOVA and related methods
-- End-to-end clinical lab workflows and result validation
 - Machine Learning (Supervised and Unsupervised)
+- End-to-end clinical lab workflows and result validation
+- Ethical considerations in biomedical research
 
-I'm currently seeking an **entry-level role in Medical Data Analytics**, especially opportunities centered on **OMICS** or **clinical trial data**.
+I'm currently seeking a role in **Medical Data Analytics or Bioinformatics**, especially opportunities centered on **OMICS**, **clinical trial data**, or **translational research**.
 
 <!---
 lenaborowiecka/lenaborowiecka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
